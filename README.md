@@ -7,10 +7,15 @@ This project aims to compare the performance of different programming languages 
 ### Languages Covered: Python, C, C++, R, and MATLAB.
 
 #### Prerequisites
+
 Python 3.x
+
 GCC (for C and C++)
+
 R and RStudio
+
 MATLAB
+
 Necessary libraries for each language 
 
 
